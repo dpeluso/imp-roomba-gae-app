@@ -7,7 +7,7 @@ from protorpc import remote
 from db import AccountSettingsHelper
 
 
-WEB_CLIENT_ID = 'YOUR_WEB_CLIENT_ID'
+WEB_CLIENT_ID = 'AIzaSyBpasEGCiYWjq59zI1BaqJAZOar3PmEnHs'
 CLIENT_ID_LIST = [WEB_CLIENT_ID, endpoints.API_EXPLORER_CLIENT_ID]
 
 package = 'Roomba'

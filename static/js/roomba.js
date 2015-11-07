@@ -1,7 +1,7 @@
 // message types
 var MESSAGE_INFO = 'info';
 var MESSAGE_ERROR = 'error';
-var WEB_CLIENT_ID = 'YOUR_WEB_CLIENT_ID';
+var WEB_CLIENT_ID = 'AIzaSyBpasEGCiYWjq59zI1BaqJAZOar3PmEnHs';
 var SCOPES = 'https://www.googleapis.com/auth/userinfo.email';
 
 var messageType = {
